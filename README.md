@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🏠 Currently, I'm an undergraduate student at WHU.
+- 🏠 Currently, I'm a research assistant at CUHK.
 - ☁️ Previously, I was an intern in the EBS team of Alibaba Cloud.
-- 😄 Shortly, I will be a research assistant at CUHK.
 
 ### I love researching and building computer systems ❤️
 
