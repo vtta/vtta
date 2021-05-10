@@ -1,8 +1,3 @@
-### Hi there 👋
-
-- 🏠 Currently, I'm a research assistant at CUHK.
-- ☁️ Previously, I was an intern in the EBS team of Alibaba Cloud.
-
 ### I love researching and building computer systems ❤️
 
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vtta&layout=compact)
